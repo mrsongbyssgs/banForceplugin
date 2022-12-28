@@ -1,0 +1,7 @@
+name: BanForceplugin
+version: '${project.version}'
+main: net.ssgssp.BanForceplugin
+load: STARTUP
+authors: [ mrsongbyssgs ]
+description: A plugin that can fix the force crash
+website: ssgssp.net
